@@ -14,7 +14,7 @@ int main()
 	while (bIsRunning)
 	{
 
-		
+
 		int Key = _getch();
 
 		system("cls");
